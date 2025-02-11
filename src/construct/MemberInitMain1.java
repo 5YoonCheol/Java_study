@@ -1,6 +1,6 @@
 package construct;
 
-public class MemberInit1 {
+public class MemberInitMain1 {
     public static void main(String[] args) {
         MemberInit member1 = new MemberInit();
         member1.name = "user1";
